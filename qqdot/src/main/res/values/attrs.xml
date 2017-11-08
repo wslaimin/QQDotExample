@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QQDot">
+        <attr name="radius" format="integer"/>
+        <attr name="control_percent" format="float"/>
+        <attr name="max_drag_distance" format="float"/>
+    </declare-styleable>
+</resources>
