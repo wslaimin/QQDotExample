@@ -1,4 +1,4 @@
-﻿# QQDotExample
+# QQDotExample
 
 ---------
 
@@ -8,7 +8,7 @@
 
 ## 效果图
 
-![](https://github.com/wslaimin/QQDotExample/raw/master/qqdot_gif.gif)
+![](https://github.com/wslaimin/QQDotExample/raw/master/screenshot/qqdot_gif.gif)
 
 
 
